@@ -1,0 +1,11 @@
+{
+  "name": "Arduino_test",
+  "version": "0.0.1",
+  "description": "testing the Arduino RFID UID sending",
+  "dependencies": {
+    "express": "^4.13.4",
+    "serialport": "^2.0.6",
+    "sf": "^0.1.8",
+    "socket.io": "^1.4.5"
+  }
+}
